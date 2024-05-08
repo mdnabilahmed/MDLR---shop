@@ -9,7 +9,7 @@
    font-size: 22px;
 }
 
-img{
+.img{
    height: 30px;
    width: 30px;
 }
@@ -123,8 +123,3 @@ nav li:first-child{
    text-align: center;
 }
 
-.item_home{
-   height: 76vh;
-   width: 179.5vh;
-   border: 1px solid black;
-}
